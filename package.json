@@ -1,0 +1,25 @@
+{
+  "name": "salarycalculatornode",
+  "version": "1.0.0",
+  "description": "polaris salaray calculator node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackay2588/Salary_Calculator_On_Node_Server.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mackay2588/Salary_Calculator_On_Node_Server/issues"
+  },
+  "homepage": "https://github.com/mackay2588/Salary_Calculator_On_Node_Server#readme"
+}
